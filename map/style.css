@@ -1,0 +1,158 @@
+body {
+    width: 1960px;
+    background-color: black;
+    margin: 0 0;
+    padding: 0 0;
+}
+
+.map-block {
+    background: url("f2-worldmap.png") 0 0 no-repeat;
+    width: 1440px;
+    height: 1538px;
+    padding: 21px 0 0 20px;
+}
+
+.map-block .tiles-block {
+    width: 1401px;
+    height: 1501px;
+    position: relative;
+    overflow: hidden;
+}
+
+/*.map-block .tiles-block .tile {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+}*/
+
+.map-block .tiles-block .selection {
+    position: absolute;
+    border: 3px solid #ffff00;
+    width: 45px;
+    height: 45px;
+    z-index: 2;
+}
+
+
+
+/*.tiles-block .show:before {
+    opacity: 0;
+}*/
+
+.tiles-block .hover, .tiles-block .show-type {
+    position: absolute;
+    /*width: 50px;
+    height: 50px;
+    background: red;
+    opacity: 0.5;
+    cursor: pointer;*/
+    display: none;
+    font-size: 12px;
+    font-weight: bold;
+    font-family: Arial;
+    color: #ffffff;
+    cursor: pointer;
+    text-shadow: 1px 2px #000000;
+}
+
+.tiles-block .hover {
+    z-index: 1;
+    border: 3px solid #aaaa00;
+    padding: -3px 0 0 -3px;
+    opacity: 1;
+    width: 45px;
+    height: 45px;
+}
+
+.tiles-block .show-type {
+    color: #ffffff;
+    display: block;
+    z-index:1;
+    /*font-size: 16px;
+    padding: 16px 0 0 5px;
+    -webkit-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    text-shadow: 2px*/
+}
+
+.tiles-block .show-freq {
+    position: absolute;
+    background: red;
+    opacity: 0;
+    display: block;
+    width: 50px;
+    height: 50px;
+}
+
+
+
+/*.tiles-block .show  span {
+    z-index: 1;
+}
+
+.tiles-block .show div {
+    position: absolute;
+    top: 0px;
+    width: 50px;
+    height: 50px;
+    background: red;
+}*/
+
+
+
+.tiles-block:hover .hover {
+    display: block;
+}
+
+.database-link, .info-block-close {
+    top: 3px;
+    right: 200px;
+    position: fixed;
+    color: #aaffaa;
+}
+
+.info-block-close {
+    right: 20px;
+}
+
+.info-block {
+    background-color: #282828;
+    color: #00ff00;
+    width: 500px;
+    height: 680px;
+    /*overflow-y: auto;*/
+    position: fixed;
+    z-index: 10;
+    top: 25px;
+    right: 5px;
+    padding: 5px 5px;
+    border-radius: 3px;
+    border-style: inner;
+}
+
+.info-block  .main {
+    height: 180px;
+}
+
+.info-block .encs {
+    overflow-y: auto;
+    height: 500px;
+}
+
+.info-block ul{
+    padding-left: 20px;
+}
+
+.info-block ul li b {
+    color: #ffff00;
+}
+
+.info-block a {
+    color: #00ffaa;
+}
+
+.footer {
+  color: #00ff00;
+  text-align: center;
+  padding: 10px;
+}
