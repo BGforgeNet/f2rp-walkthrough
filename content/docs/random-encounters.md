@@ -43,7 +43,7 @@ The Solar Scorcher has been removed and can now be found at the EPA instead. See
 
 You may find this place after already encountering Arthur and the Knights searching for the Holy Hand Grenade.
 
-Here you will find the 5 nobles fighting with the seemingly invulnerable rat. Neither the rat nor knights seem to pay any attention to your party as long as you don't join the fight. This battle can take a long time, and end in different ways. The first time I had this encounter, the rat managed to kill all 5. It then came after me, and I somehow killed it with one targeted shot to the head with a Desert Eagle. (for 0xp.) The second time, all 5 knights were able to survive and eventually kill the rat.
+Here you will find the 5 nobles fighting with the seemingly invulnerable rat. Neither the rat nor knights seem to pay any attention to your party as long as you don't join the fight. This battle can take a long time, and end in different ways. The first time I had this encounter, the rat managed to kill all 5. It then came after me, and I somehow killed it with one targeted shot to the head with a Desert Eagle. (for 0 XP.) The second time, all 5 knights were able to survive and eventually kill the rat.
 
 In either situation, you can use your action points during the battle to enter the cave and collect the Holy Hand Grenade. What interests me more is that they each carry $500 and over 100 large energy cells (depending upon how much ammo they have used in battle) which is nice to loot or steal.
 
@@ -53,5 +53,5 @@ A tribute to the creator(s) and contributors of/to the Restoration Project. It's
 
 - Obi-Wan-Killap - Green Lightsaber, 36-76 damage. Only very good characters get this (Savior of the Damned, +1001 karma).
 - Emperor Timeslip - Red Lightsaber, 36-76 damage. Only very evil characters get this (Demon Spawn, -1001 karma).
-- Also, both good and evil players can get 10,000xp for learning the force. Ahem, I mean the source.
+- Also, both good and evil players can get 10,000 XP for learning the force. Ahem, I mean the source.
 - Hivan Zolo - Blaster, 30-40 damage, 3 AP, Min ST 3, Rng 24, ammo: 40 small energy cells (you need an energy weapon skill of 101% to get it though).

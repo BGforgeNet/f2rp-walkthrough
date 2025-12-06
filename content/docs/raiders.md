@@ -15,8 +15,8 @@ When you choose to follow the raiders, there is another outdoorsman check to dec
 
 (If you choose the second option to find the Raiders base, you will have to leave your car behind and walk back to wherever you left it.)
 
-Only when you enter through the well can you end the raider threat peacefully. Climb down and sneak to the tribal "Shadow Who Walks" and talk to him. Convince him to stop working for the raiders. (3000xp and 15 karma)
+Only when you enter through the well can you end the raider threat peacefully. Climb down and sneak to the tribal "Shadow Who Walks" and talk to him. Convince him to stop working for the raiders. (3000 XP and 15 karma)
 
-You can also threaten him instead and tell him to run out of the Raiders camp, for 2500xp and 15 karma.
+You can also threaten him instead and tell him to run out of the Raiders camp, for 2500 XP and 15 karma.
 
 If you leave after talking to "Shadow Who Walks" the raiders will all leave and there will only be containers to loot.

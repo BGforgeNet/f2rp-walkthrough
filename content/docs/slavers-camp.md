@@ -11,7 +11,7 @@ You can rescue Sulik's sister, Kurisu, in a peaceful way or just by killing ever
 
 You can also sneak straight into the shack without talking to anyone, but then you need 90% lockpick for a 50% chance of opening the cell.
 
-When you rescue Kurisu you get to choose if you want to sneak away with her to the Umbra Tribe or if you want to rescue all the slaves first, which means you have to kill all the slavers. To unlock the bigger slave pen use the keys from Don (if you didn't get them earlier you can pick them up from his dead body) or you can pick the lock yourself but it's rather hard. When you are ready to leave you will be taken to the Umbra Tribe automatically. Reuniting Sulik and Kurisu earns you 500xp and 1000xp for rescuing her.
+When you rescue Kurisu you get to choose if you want to sneak away with her to the Umbra Tribe or if you want to rescue all the slaves first, which means you have to kill all the slavers. To unlock the bigger slave pen use the keys from Don (if you didn't get them earlier you can pick them up from his dead body) or you can pick the lock yourself but it's rather hard. When you are ready to leave you will be taken to the Umbra Tribe automatically. Reuniting Sulik and Kurisu earns you 500 XP and 1000 XP for rescuing her.
 
 {{< note >}}Note that if you didn't kill the slavers they will be hostile the next time you show up at that location.{{< /note >}}
 

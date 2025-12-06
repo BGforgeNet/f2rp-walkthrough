@@ -11,7 +11,7 @@ You get this task by talking to Marcus. Go talk to the caravan guards and find M
 
 If your perception is less than 7 or, your intelligence is 4 or lower, Chad will appear behind you while you search through his drawer. After a short conversation he will turn hostile. He seems to be a wuss though (if you are wearing anything better than leather he is likely to run away). If you look in the drawer again after the fight you'll find the briefcase there.
 
-Once you have the briefcase, there are 2 ways to complete the quest. You can confront Chad with the evidence and blackmail him. He'll pay $1000 for you to let him get out of town and you get 750xp. The other way is to tell Marcus. You won't get the money, but you'll get 1500xp instead. If you want to blackmail Chad you have two chances. First you must pass a speech check (skill -15%), fail that and you get another speech roll (skill -35%).
+Once you have the briefcase, there are 2 ways to complete the quest. You can confront Chad with the evidence and blackmail him. He'll pay $1000 for you to let him get out of town and you get 750 XP. The other way is to tell Marcus. You won't get the money, but you'll get 1500 XP instead. If you want to blackmail Chad you have two chances. First you must pass a speech check (skill -15%), fail that and you get another speech roll (skill -35%).
 
 You can now tell Marcus about the NCR scientist's mutant experiments. If you have already recruited him, you can still tell him about it as long as you are in Broken Hills. Marcus will thank you and tell you he'll never forget, with minor XP reward. The caravan run to NCR will get canceled for fear of poisoned goods.
 

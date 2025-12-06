@@ -37,17 +37,17 @@ There's also mention of a **Blue Level**, but it doesn't exist. Or does it?
 
 I suggest starting with the **Orange level** (conference rooms and cafeteria).
 
-To the west you see four holograms arguing with each other seemingly stuck in a loop and you can't talk to them. As you get closer you notice the humming from a magnetic field nearby that might be interfering with them. In the room to the left of them there are a couple of computers. Use the left one and run a diagnostics check, then use repair on it (over 40%) for 100xp. You can now talk to the holograms and get a few quests.
+To the west you see four holograms arguing with each other seemingly stuck in a loop and you can't talk to them. As you get closer you notice the humming from a magnetic field nearby that might be interfering with them. In the room to the left of them there are a couple of computers. Use the left one and run a diagnostics check, then use repair on it (over 40%) for 100 XP. You can now talk to the holograms and get a few quests.
 
 ### 1. Fix EPA lighting problem
 
-You get this quest from the director of public relations (female holo), but first you have to try to open one of a few password protected doors, and ask her for the password. The closest door is the one to the room just south of her. You also need speech 81% (actually you only need 61% but then you will have to ask her twice). She wants you to repair the power generator located in EPA's Air, Water and Power Facility level. It's the left one of the four generators. With a repair skill bigger than 55% you'll learn that you need to fix it with a piece of junk (500xp). Return to her to get the password.
+You get this quest from the director of public relations (female holo), but first you have to try to open one of a few password protected doors, and ask her for the password. The closest door is the one to the room just south of her. You also need speech 81% (actually you only need 61% but then you will have to ask her twice). She wants you to repair the power generator located in EPA's Air, Water and Power Facility level. It's the left one of the four generators. With a repair skill bigger than 55% you'll learn that you need to fix it with a piece of junk (500 XP). Return to her to get the password.
 
 {{< note >}}I suggest you do this quest first as several doors will be locked to you otherwise.{{< /note >}}
 
 ### 2. Clear out the plant problem
 
-Hologram 10031 is the man in charge of the ground maintenance but he's having trouble with controlling the robots and as a holo he can't do anything himself. He'll employ you as assistant groundskeeper and wants you to clear out all the spore plants on the top level. If you already did it earlier you can just tell him that. He gives you 500xp and the keys to his storage shed (the locked building on the top level).
+Hologram 10031 is the man in charge of the ground maintenance but he's having trouble with controlling the robots and as a holo he can't do anything himself. He'll employ you as assistant groundskeeper and wants you to clear out all the spore plants on the top level. If you already did it earlier you can just tell him that. He gives you 500 XP and the keys to his storage shed (the locked building on the top level).
 
 You may want to consider waiting with this quest until after you have gotten the "Test the Solar Scorcher for the Director of Science." quest.
 
@@ -55,7 +55,7 @@ You may want to consider waiting with this quest until after you have gotten the
 
 The obnoxious power armor wearing hologram is the director of security for EPA. Talking to him reveals that he has no control over the robots as the voice computer is malfunctioning. If you fix it for him he'll grant you access to the security wing (Red level).
 
-The EPA Robot control computer is located in the Yellow level. It's the one that says "BEEP!" from time to time. You need to run a diagnostic check to determine what's wrong and then repair it (76%, or 56% when using a tool or a super tool kit) for 500xp. Returning to the director of security, you will get an access card that unlocks most doors on the Red level.
+The EPA Robot control computer is located in the Yellow level. It's the one that says "BEEP!" from time to time. You need to run a diagnostic check to determine what's wrong and then repair it (76%, or 56% when using a tool or a super tool kit) for 500 XP. Returning to the director of security, you will get an access card that unlocks most doors on the Red level.
 
 {{< note >}}The fourth hologram (director of operations) is completely useless. There's nothing you can do with him.{{< /note >}}
 
@@ -69,25 +69,25 @@ This level is connected with the Violet level via a room full of chemicals that 
 
 ### 4. Fix hologram 00000
 
-The hologram here is the Director of Science. Speaking to him reveals a small problem, he only talks in binary. You need 100% science and In 6 to understand him. He says there is a problem with the tape reel close by him (81% to repair it, 51% if you use any kind of tool). But that's not enough, he also needs to be rebooted (talking to him with 100% science and intelligence 6 will make you able to understand what's wrong). 500xp is your reward.
+The hologram here is the Director of Science. Speaking to him reveals a small problem, he only talks in binary. You need 100% science and IN 6 to understand him. He says there is a problem with the tape reel close by him (81% to repair it, 51% if you use any kind of tool). But that's not enough, he also needs to be rebooted (talking to him with 100% science and intelligence 6 will make you able to understand what's wrong). 500 XP is your reward.
 
 ### 5. Test the Solar Scorcher for the Director of Science
 
 {{< note >}}The Solar Scorcher is the same gun that could previously be found in the Guardian of forever encounter.{{< /note >}}
 
-After you have fixed the science director he wants you to test out an experimental weapon for him. It is stored in a locker next to the tape reel machine. The locker is locked until you get this quest and there is no way of opening it before that. Anyway, your mission is to go outside and shoot something and then come back and report it (500xp), and you get to keep the gun. Note, outside means outside, critters in the sub-levels don't count. Ideally you saved a spore plant on the surface level for target practice, if not you have to travel the wastes.
+After you have fixed the science director he wants you to test out an experimental weapon for him. It is stored in a locker next to the tape reel machine. The locker is locked until you get this quest and there is no way of opening it before that. Anyway, your mission is to go outside and shoot something and then come back and report it (500 XP), and you get to keep the gun. Note, outside means outside, critters in the sub-levels don't count. Ideally you saved a spore plant on the surface level for target practice, if not you have to travel the wastes.
 
 ## Indigo Level
 
 No quests here but there are a few things of interest.
 
-{{< note >}}In the room directly south of the elevator there is a beeping computer. It holds a few interesting notes, especially the ones on a cure for epilepsy. After you have gotten that info you can 'cure' the barking man in New Reno (100xp and 3 Stimpaks). If you push the "keep searching" option 22 times you will eventually find info on a Mass Fluoridation Project (200xp). With Luck 9 you can find the hidden message a little faster.{{< /note >}}
+{{< note >}}In the room directly south of the elevator there is a beeping computer. It holds a few interesting notes, especially the ones on a cure for epilepsy. After you have gotten that info you can 'cure' the barking man in New Reno (100 XP and 3 Stimpaks). If you push the "keep searching" option 22 times you will eventually find info on a Mass Fluoridation Project (200 XP). With Luck 9 you can find the hidden message a little faster.{{< /note >}}
 
 {{< note >}}The room just below the computer holds three modified auto-doc machines. Using these will let you change your appearance. As a male you can go from normal hair, to long hair, to completely bald. You can even have that sex-change operation you've always dreamt about. Females can change between blonde, red head and the normal 'bucket head' brunette, plus the sex change. For now... but more hero models are in the works for both men and women, just hope they find their way to the RP when done.{{< /note >}}
 
 {{< warning >}}The machines can be very dangerous! Saving prior to use is advisable.{{< /warning >}}
 
-{{< note >}}In a room to the far left is a silver toaster sitting on a desk. Apparently his name is "Brave Little Toaster". You can have a little chat with him. It turns out he's desperate to make you a toast, as it's been a century since he last made any. But that's not why you are here. As everything else here he is in need of repairs (fairly easy repair roll, 450xp), and if you talk to him again you gain the ability to jinx slot machines. A handy little perk to have if you are in need of cash, as when you use it a slot machine will surrender all its money.{{< /note >}}
+{{< note >}}In a room to the far left is a silver toaster sitting on a desk. Apparently his name is "Brave Little Toaster". You can have a little chat with him. It turns out he's desperate to make you a toast, as it's been a century since he last made any. But that's not why you are here. As everything else here he is in need of repairs (fairly easy repair roll, 450 XP), and if you talk to him again you gain the ability to jinx slot machines. A handy little perk to have if you are in need of cash, as when you use it a slot machine will surrender all its money.{{< /note >}}
 
 ## Red Level
 
@@ -107,7 +107,7 @@ When you try to talk to him you can't understand anything because of too much st
 
 This level is pretty empty but this is where you find the elevator down to the Blue level. Also, in the small wall locker in the hallway to the contaminated area you will find a gas mask. If you equip it in your active item slot you will be protected from toxins and can enter the chemical areas safely (the one on this level is the only one you really need to enter). Note that this contaminated room could just as well have been covered in the Yellow level section, but since the gas mask can be found in this level it fits better here.
 
-{{< note >}}To the right of the big computer you can see two fans that are clogged up with goo. Clean them for 50xp each and the air becomes breathable (you no longer need the gas mask).{{< /note >}}
+{{< note >}}To the right of the big computer you can see two fans that are clogged up with goo. Clean them for 50 XP each and the air becomes breathable (you no longer need the gas mask).{{< /note >}}
 
 {{< note >}}The big computer here is "Mr. Chemmie", the local candy man. Well, not really. But if you have the knowledge and the right ingredients, he can create almost any drug you want. He can make:{{< /note >}}
 
@@ -141,9 +141,9 @@ Here you can find EPA's botanical garden and the spectacular petting zoo. The zo
 
 {{< note >}}There are no quests here, but there is one quest objective you can fulfill. On the east side there is a computer, the EPA's botany terminal. On it you can find a file on botany. If you have the quest from Brother Paul to find info on such things, you can download it to a holodisk and bring it to him. You can also extract some seeds from the seed storage tanks. They contain modified corn and some experimental seeds.{{< /note >}}
 
-{{< note >}}If you are up for it you can take a stroll in the lush trees and bushes of the garden. If you have some seeds you can even grow one yourself. The experimental seeds can be planted in the fertile ground in the south-west corner of the garden (100xp). If you come back three days later you will find a new random bush there (sometimes it's a spore plant).{{< /note >}}
+{{< note >}}If you are up for it you can take a stroll in the lush trees and bushes of the garden. If you have some seeds you can even grow one yourself. The experimental seeds can be planted in the fertile ground in the south-west corner of the garden (100 XP). If you come back three days later you will find a new random bush there (sometimes it's a spore plant).{{< /note >}}
 
-{{< note >}}You can plant the modified corn in Arroyo for 100xp, but it won't change anything for the village. It must be done before the fourth dream of course. The experimental seeds can be planted here too. I only managed to plant one package of seeds here even though there seems to be more fertile ground available for planting.{{< /note >}}
+{{< note >}}You can plant the modified corn in Arroyo for 100 XP, but it won't change anything for the village. It must be done before the fourth dream of course. The experimental seeds can be planted here too. I only managed to plant one package of seeds here even though there seems to be more fertile ground available for planting.{{< /note >}}
 
 {{< note >}}You can read up on the different critters on the computers near their cells and lower the force fields holding them in. They are all hostile though, so the best thing you can do is probably to put them out of their misery.{{< /note >}}
 
