@@ -1,0 +1,98 @@
+/* Warm cream background */
+body {
+  background-color: #fffbf0;
+}
+
+.book-page {
+  background-color: #fffbf0;
+}
+
+/* Right TOC font size */
+.book-toc {
+  font-size: 0.95rem;
+}
+
+.book-toc nav > ul > li {
+  margin: 0.5em 0;
+}
+
+/* Town headings (h1) */
+.markdown h1 {
+  color: #1e3a5f;
+  border-bottom: 2px solid #3b82f6;
+  padding-bottom: 0.5rem;
+}
+
+/* Section headings (h2) */
+.markdown h2 {
+  color: #1e40af;
+  border-bottom: 1px solid #93c5fd;
+  padding-bottom: 0.3rem;
+  margin-top: 2rem;
+}
+
+/* Quest headings (h3) */
+.markdown h3 {
+  color: #065f46;
+  background: linear-gradient(90deg, #ecfdf5 0%, transparent 100%);
+  padding: 0.4rem 0.75rem;
+  margin-left: -0.75rem;
+  border-radius: 4px;
+}
+
+/* Notes - blue info box */
+.markdown p:has(strong:first-child) {
+  &:has(strong:first-child:is(:contains("Note"))) {
+    background: #eff6ff;
+    border-left: 3px solid #3b82f6;
+    padding: 0.5rem 0.75rem;
+    margin: 1rem 0;
+    border-radius: 0 4px 4px 0;
+  }
+}
+
+/* Style paragraphs starting with Note: or WARNING: */
+.markdown p strong:first-child {
+  &:empty + em,
+  &:empty ~ * {
+    color: inherit;
+  }
+}
+
+.note-info {
+  background: #eff6ff;
+  border-left: 3px solid #3b82f6;
+  padding: 0.5rem 0.75rem;
+  margin: 1rem 0;
+  border-radius: 0 4px 4px 0;
+}
+
+.note-warning {
+  background: #fef2f2;
+  border-left: 3px solid #ef4444;
+  padding: 0.5rem 0.75rem;
+  margin: 1rem 0;
+  border-radius: 0 4px 4px 0;
+}
+
+/* Dark mode */
+@media (prefers-color-scheme: dark) {
+  body, .book-page {
+    background-color: #1e201c;
+  }
+
+  .markdown h1 {
+    color: #93c5fd;
+    border-bottom-color: #3b82f6;
+  }
+
+  .markdown h2 {
+    color: #93c5fd;
+    border-bottom-color: #1e40af;
+  }
+
+  .markdown h3 {
+    color: #6ee7b7;
+    background: linear-gradient(90deg, #064e3b33 0%, transparent 100%);
+  }
+}

@@ -1,0 +1,28 @@
+baseURL = 'https://f2rp.bgforge.net/'
+languageCode = 'en-us'
+title = 'Fallout 2 Restoration Project Walkthrough'
+
+[module]
+  [[module.imports]]
+    path = 'github.com/alex-shpak/hugo-book'
+
+[params]
+  BookTheme = 'auto'
+  BookToC = true
+  BookSection = 'docs'
+  BookRepo = 'https://github.com/BGforgeNet/f2rp-walkthrough'
+  BookEditPath = 'edit/master/content'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 3
+
+[menu]
+  [[menu.after]]
+    name = "World Map"
+    url = "/map/"
+    weight = 1

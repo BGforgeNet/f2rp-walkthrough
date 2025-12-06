@@ -1,0 +1,13 @@
+# Hugo
+public/
+resources/_gen/
+.hugo_build.lock
+
+# Go modules
+go.sum
+
+# Old files (replaced by Hugo)
+index.html
+index.html.orig
+convert.py
+.nojekyll
