@@ -41,7 +41,7 @@ Brother Paul (referred to as computer monk) is the man in a gray robe in the lib
 
 ## 8. Escort Brother Jason to Gecko
 
-You can find Jason outside, between the church and the cemetery. He's a "tragic the gathering" addict. He is not happy at the Abbey and would want to leave. If you have been to Gecko you can offer to escort him there. (800xp and a stealth boy).
+You can find Jason outside, between the church and the cemetery. He's a "Tragic: The Gathering" addict. He is not happy at the Abbey and would want to leave. If you have been to Gecko you can offer to escort him there. (800xp and a stealth boy).
 
 ## 9. Format the Abbey's book database
 

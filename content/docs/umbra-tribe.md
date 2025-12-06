@@ -19,7 +19,7 @@ So depending on how you make the trade this is what you get:
 
 - 600xp +20 karma for figuring out the stimpaks were fake and stop the deal.
 - 500xp + 15 karma if you make the deal.
-- 300xp + 15 karma if find out about the fake stimpaks and kill the trader.
+- 300xp + 15 karma if you find out about the fake stimpaks and kill the trader.
 - 300xp if you kill the trader for no good reason.
 
 {{< note >}}Female characters can have a little romance with Krom before they take on this mission (charisma 7).{{< /note >}}

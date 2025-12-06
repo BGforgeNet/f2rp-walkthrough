@@ -7,7 +7,7 @@ weight: 18
 
 ## 1. Get weapons for Connar to be used at the nearby village
 
-Connar asks you to help the village out by buying some guns for them to defend themselves, and gives you $5,000 upfront for it. He will tell you to find Joe near Cassidy's bar for help in obtaining the guns. Joe sends you to Happy Harry to buy them, and then you can return with the weapons for 800xp. If your speech skill is bad you will have to pay full prize for the weapons ($10,000), but at 50% you should have a good chance to break even. With 80% speech you should be able to get the guns for only $2000 (You have more than one chance to get the result you want, so keep trying until you're satisfied).
+Connar asks you to help the village out by buying some guns for them to defend themselves, and gives you $5,000 upfront for it. He will tell you to find Joe near Cassidy's bar for help in obtaining the guns. Joe sends you to Happy Harry to buy them, and then you can return with the weapons for 800xp. If your speech skill is bad you will have to pay full price for the weapons ($10,000), but at 50% you should have a good chance to break even. With 80% speech you should be able to get the guns for only $2000 (You have more than one chance to get the result you want, so keep trying until you're satisfied).
 
 After you have given the guns to Connar, Stark and his men will fail with their raid against Vault Village. You can then rat out Happy Harry to Stark (for selling guns) and he'll be sent to the detention center in the courtyard. As a reward you get to help yourself to whatever is in Harry's store.
 
