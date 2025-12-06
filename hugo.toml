@@ -7,6 +7,7 @@ title = 'Fallout 2 Restoration Project Walkthrough'
     path = 'github.com/alex-shpak/hugo-book'
 
 [params]
+  BookFavicon = '/favicon.ico'
   BookTheme = 'auto'
   BookToC = true
   BookSection = 'docs'
