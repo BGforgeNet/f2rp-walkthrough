@@ -15,6 +15,8 @@ title = 'Fallout 2 Restoration Project Walkthrough'
 
 [markup]
   [markup.goldmark]
+    [markup.goldmark.extensions]
+      typographer = false
     [markup.goldmark.renderer]
       unsafe = true
   [markup.tableOfContents]
