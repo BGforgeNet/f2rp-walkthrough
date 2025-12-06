@@ -21,7 +21,7 @@ Elaine, the 'stout nun' on the second floor will give you this task. Max is in t
 
 ## 3. Repair the water pump and report the status to the head monk
 
-Talk to the head monk or Dave, the merchant, to find out the water pump needs to be fixed. After examining the pump and discovering it needs a motor (this gives you 100 XP) talk to Dave again. He'll say you can find a motor at Harry's in Vault city (which will cost you $500). When you have the motor, you can talk to him again. He will ask if you want him to fix the pump (300 XP) or if you want to do it (800 XP). If you do it, use the motor on the pump first. You will then get a message saying that perhaps tools would help. Pliers or a super tool kit will work. (There are pliers on the bookcase closest to the door in Trader Bill's shop. A wrench does not work) Report back to the head monk for another 50 XP.
+Talk to the head monk or Dave, the merchant, to find out the water pump needs to be fixed. After examining the pump and discovering it needs a motor (this gives you 100 XP) talk to Dave again. He'll say you can find a motor at Harry's in Vault City (which will cost you $500). When you have the motor, you can talk to him again. He will ask if you want him to fix the pump (300 XP) or if you want to do it (800 XP). If you do it, use the motor on the pump first. You will then get a message saying that perhaps tools would help. Pliers or a super tool kit will work. (There are pliers on the bookcase closest to the door in Trader Bill's shop. A wrench does not work) Report back to the head monk for another 50 XP.
 
 ## 4. Find out who is digging up the graves
 
@@ -37,7 +37,7 @@ Hank is the moonshiner in the W basement. Officer Darrow in VC Amenities "A" has
 
 ## 7. Collect information about botany for Brother Paul
 
-Brother Paul (referred to as computer monk) is the man in a gray robe in the library on the second floor. You can get a quest to find info on botany from him (science 70%). You can find it on a computer in the EPA and copy it over to a holodisk. Once you have it, talk to Brother Paul again. He will tell you to upload the data to the main Abbey computer. If you have received the access card from him already, log on to the terminal and "add information" for 750 XP. Else you have to do the "Kill the beast beneath the church." quest first to get it.
+Brother Paul (referred to as computer monk) is the man in a gray robe in the library on the second floor. You can get a quest to find info on botany from him (science 70%). You can find it on a computer in the [EPA](/docs/epa/) and copy it over to a holodisk. Once you have it, talk to Brother Paul again. He will tell you to upload the data to the main Abbey computer. If you have received the access card from him already, log on to the terminal and "add information" for 750 XP. Else you have to do the "Kill the beast beneath the church." quest first to get it.
 
 ## 8. Escort Brother Jason to Gecko
 
@@ -49,7 +49,7 @@ You can also get this from Brother Jason (but you can't do both this and quest 8
 
 ## Other activities
 
-{{< note >}}Brother John on the second floor has a bad heart. If you give him heart pills he will give you a Scout Handbook, or you can charge him $400. You can also pretend to sell them to him for $400 but refuse to turn them over, after which he won't speak to you anymore. Neither choice affects karma or town reputation, and the other monks don't care what you do.{{< /note >}}
+{{< note >}}Brother John on the second floor has a bad heart. If you give him [heart pills](/docs/epa/#violet-level) he will give you a Scout Handbook, or you can charge him $400. You can also pretend to sell them to him for $400 but refuse to turn them over, after which he won't speak to you anymore. Neither choice affects karma or town reputation, and the other monks don't care what you do.{{< /note >}}
 
 {{< note >}}In the lower left corner of the abbey, you will find Jack the healer. As his title suggests, he can fix you up (no NPCs). If you ask him for medical supplies you'll get a paramedics bag and field medic kit, CH 8 and 101% speech required. Low int characters can only drool, and if you keep it up, it will cause Jack to melt (literally). You earn 200 XP for this.{{< /note >}}
 

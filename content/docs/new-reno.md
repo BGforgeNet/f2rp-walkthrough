@@ -5,7 +5,7 @@ weight: 9
 
 # New Reno
 
-The 'Barking man' is a new character that you can help. If you find and talk to him (located in the very back of the building that is northwest of Jules, see picture), you can determine that he has a case of epilepsy if you have 75 science. See the [EPA](/docs/epa/) section on how to help him.
+The 'Barking man' is a new character that you can help. If you find and talk to him (located in the very back of the building that is northwest of Jules, see picture), you can determine that he has a case of epilepsy if you have 75 science. See the [EPA](/docs/epa/#indigo-level) section on how to help him.
 
 ![Barking man location](/files/00.jpg)
 

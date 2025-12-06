@@ -61,7 +61,7 @@ If you refuse to do any of his quests (or meet with him in the first place), his
 
 ### 2. Bring Dr. Sheng some plant seeds
 
-He wants you to go to the EPA and get some unique seeds and then he will give you something to deliver to the Shi. It's the experimental seeds that can be found in the green level of the EPA. Just use the terminal to get it from the seed bank. You get 1000 XP for giving them to Dr. Sheng.
+He wants you to go to the EPA and get some unique seeds and then he will give you something to deliver to the Shi. It's the experimental seeds that can be found in the [Green Level](/docs/epa/#green-level) of the EPA. Just use the terminal to get it from the seed bank. You get 1000 XP for giving them to Dr. Sheng.
 
 ### 3. Deliver the plant seed sample to Dr. Wong
 
