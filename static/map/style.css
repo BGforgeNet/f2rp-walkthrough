@@ -1,8 +1,8 @@
 body {
     width: 1960px;
     background-color: black;
-    margin: 0 0;
-    padding: 0 0;
+    margin: 0;
+    padding: 0;
 }
 
 .map-block {
@@ -19,12 +19,6 @@ body {
     overflow: hidden;
 }
 
-/*.map-block .tiles-block .tile {
-    display: inline-block;
-    width: 50px;
-    height: 50px;
-}*/
-
 .map-block .tiles-block .selection {
     position: absolute;
     border: 3px solid #ffff00;
@@ -33,23 +27,13 @@ body {
     z-index: 2;
 }
 
-
-
-/*.tiles-block .show:before {
-    opacity: 0;
-}*/
-
-.tiles-block .hover, .tiles-block .show-type {
+.tiles-block .hover,
+.tiles-block .show-type {
     position: absolute;
-    /*width: 50px;
-    height: 50px;
-    background: red;
-    opacity: 0.5;
-    cursor: pointer;*/
     display: none;
     font-size: 12px;
     font-weight: bold;
-    font-family: Arial;
+    font-family: Arial, sans-serif;
     color: #ffffff;
     cursor: pointer;
     text-shadow: 1px 2px #000000;
@@ -58,21 +42,13 @@ body {
 .tiles-block .hover {
     z-index: 1;
     border: 3px solid #aaaa00;
-    padding: -3px 0 0 -3px;
-    opacity: 1;
     width: 45px;
     height: 45px;
 }
 
 .tiles-block .show-type {
-    color: #ffffff;
     display: block;
-    z-index:1;
-    /*font-size: 16px;
-    padding: 16px 0 0 5px;
-    -webkit-transform: rotate(45deg);
-    -moz-transform: rotate(45deg);
-    text-shadow: 2px*/
+    z-index: 1;
 }
 
 .tiles-block .show-freq {
@@ -84,27 +60,12 @@ body {
     height: 50px;
 }
 
-
-
-/*.tiles-block .show  span {
-    z-index: 1;
-}
-
-.tiles-block .show div {
-    position: absolute;
-    top: 0px;
-    width: 50px;
-    height: 50px;
-    background: red;
-}*/
-
-
-
 .tiles-block:hover .hover {
     display: block;
 }
 
-.database-link, .info-block-close {
+.database-link,
+.info-block-close {
     top: 3px;
     right: 200px;
     position: fixed;
@@ -120,17 +81,15 @@ body {
     color: #00ff00;
     width: 500px;
     height: 680px;
-    /*overflow-y: auto;*/
     position: fixed;
     z-index: 10;
     top: 25px;
     right: 5px;
-    padding: 5px 5px;
+    padding: 5px;
     border-radius: 3px;
-    border-style: inner;
 }
 
-.info-block  .main {
+.info-block .main {
     height: 180px;
 }
 
@@ -139,7 +98,7 @@ body {
     height: 500px;
 }
 
-.info-block ul{
+.info-block ul {
     padding-left: 20px;
 }
 
@@ -152,7 +111,7 @@ body {
 }
 
 .footer {
-  color: #00ff00;
-  text-align: center;
-  padding: 10px;
+    color: #00ff00;
+    text-align: center;
+    padding: 10px;
 }
