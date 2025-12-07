@@ -7,7 +7,7 @@ weight: 9
 
 The 'Barking man' is a new character that you can help. If you find and talk to him (located in the very back of the building that is northwest of Jules, see picture), you can determine that he has a case of epilepsy if you have 75 science. See the [EPA](/epa/#indigo-level) section on how to help him.
 
-![Barking man location](/files/00.jpg)
+{{< figure src="/files/00.jpg" alt="Barking man location" class="center" >}}
 
 'Three-Card Monte' is also a new character that can be found near the big sign between Virgin street and Second street. You can gamble with him (but he cheats). He can also give you information about the Richard Wright OD, Pretty Boy Lloyd, Your missing car, Eldridge, and the location of Golgotha. He will sell you information, 100-200$ for info on Eldridge and $250-$1000 for quest related stuff (harder speech check the lower you offer him). There is another way though. He cheats at cards so why not cheat him back? Steal his deck of cards and replace it with a marked deck, or simply buy his deck and sell him your marked one (100 XP). Marked cards can be found on a shelf upstairs at the Desperado or dug up from one of the northern graves at Golgotha. After you've won 11 times (and are $200 richer), he won't be able to pay you his debt, so you can get information for free (only once).
 
