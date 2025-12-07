@@ -17,7 +17,7 @@ You can now tell Marcus about the NCR scientist's mutant experiments. If you hav
 
 Marcus now has a new line unlocked for when you have found the tunnels but not yet found the dead bodies (nothing major, just flavor).
 
-If you have the gas mask from the [EPA](/docs/epa/#violet-level), it will protect you from the damaging gas in the mine.
+If you have the gas mask from the [EPA](/epa/#violet-level), it will protect you from the damaging gas in the mine.
 
 If you are playing with the NPC Armor Mod installed, you can obtain a Kevlar Armor for Dogmeat here. Talk to Liz in the hardware store and ask her if she has something special off the shelves. She will set you up for a mere $2000, but only if you have the dog in your party. Talk to Dogmeat to put it on or off. When Dogmeat is fully leveled up and is wearing the armor, he will have the equivalent protection of a combat armor, with a little bit better laser resistance.
 

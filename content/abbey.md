@@ -37,7 +37,7 @@ Hank is the moonshiner in the W basement. Officer Darrow in VC Amenities "A" has
 
 ## 7. Collect information about botany for Brother Paul
 
-Brother Paul (referred to as computer monk) is the man in a gray robe in the library on the second floor. You can get a quest to find info on botany from him (science 70%). You can find it on a computer in the [EPA](/docs/epa/) and copy it over to a holodisk. Once you have it, talk to Brother Paul again. He will tell you to upload the data to the main Abbey computer. If you have received the access card from him already, log on to the terminal and "add information" for 750 XP. Else you have to do the "Kill the beast beneath the church." quest first to get it.
+Brother Paul (referred to as computer monk) is the man in a gray robe in the library on the second floor. You can get a quest to find info on botany from him (science 70%). You can find it on a computer in the [EPA](/epa/) and copy it over to a holodisk. Once you have it, talk to Brother Paul again. He will tell you to upload the data to the main Abbey computer. If you have received the access card from him already, log on to the terminal and "add information" for 750 XP. Else you have to do the "Kill the beast beneath the church." quest first to get it.
 
 ## 8. Escort Brother Jason to Gecko
 
@@ -49,7 +49,7 @@ You can also get this from Brother Jason (but you can't do both this and quest 8
 
 ## Other activities
 
-{{< note >}}Brother John on the second floor has a bad heart. If you give him [heart pills](/docs/epa/#violet-level) he will give you a Scout Handbook, or you can charge him $400. You can also pretend to sell them to him for $400 but refuse to turn them over, after which he won't speak to you anymore. Neither choice affects karma or town reputation, and the other monks don't care what you do.{{< /note >}}
+{{< note >}}Brother John on the second floor has a bad heart. If you give him [heart pills](/epa/#violet-level) he will give you a Scout Handbook, or you can charge him $400. You can also pretend to sell them to him for $400 but refuse to turn them over, after which he won't speak to you anymore. Neither choice affects karma or town reputation, and the other monks don't care what you do.{{< /note >}}
 
 {{< note >}}In the lower left corner of the abbey, you will find Jack the healer. As his title suggests, he can fix you up (no NPCs). If you ask him for medical supplies you'll get a paramedics bag and field medic kit, CH 8 and 101% speech required. Low int characters can only drool, and if you keep it up, it will cause Jack to melt (literally). You earn 200 XP for this.{{< /note >}}
 

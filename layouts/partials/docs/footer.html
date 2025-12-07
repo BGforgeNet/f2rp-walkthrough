@@ -1,0 +1,33 @@
+<div class="flex flex-wrap justify-between">
+
+<div>
+{{ if and .GitInfo .Site.Params.BookLastChangeLink }}
+  {{- $date := partial "docs/date" (dict "Date" .Lastmod "Format" .Site.Params.BookDateFormat) -}}
+  <a class="flex align-center" href="{{ partial "docs/links/commit" . }}" title='{{ partial "docs/text/i18n" "Last modified by" }} {{ .GitInfo.AuthorName }} | {{ $date }}' target="_blank" rel="noopener">
+    <img src="{{ partial "docs/icon" "calendar" }}" class="book-icon" alt="{{ partial "docs/text/i18n" "Calendar" }}" />
+    <span>{{ $date }}</span>
+  </a>
+{{ end }}
+</div>
+
+<div>
+</div>
+
+</div>
+
+{{ partial "docs/prev-next" . }}
+
+{{ if and .File .Site.Params.BookEditLink }}
+<div class="edit-link" style="text-align: center; margin-top: 1rem;">
+  <a class="flex align-center justify-center" href="{{ partial "docs/links/edit" . }}" target="_blank" rel="noopener edit">
+    <img src="{{ partial "docs/icon" "edit" }}" class="book-icon" alt="{{ partial "docs/text/i18n" "Edit" }}" />
+    <span>{{ partial "docs/text/i18n" "Edit this page" }}</span>
+  </a>
+</div>
+{{ end }}
+
+<div class="footer-links" style="text-align: center; margin-top: 1rem; font-size: 0.9rem;">
+  <a href="https://github.com/BGforgeNet/Fallout2_Restoration_Project" target="_blank" rel="noopener">RPU</a> ·
+  <a href="https://nma-fallout.com/forums/fallout-general-modding.18/" target="_blank" rel="noopener">NMA</a> ·
+  <a href="https://forums.bgforge.net/viewforum.php?f=39" target="_blank" rel="noopener">BGforge</a>
+</div>

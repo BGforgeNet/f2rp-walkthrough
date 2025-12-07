@@ -5,7 +5,7 @@ weight: 15
 
 # EPA
 
-There's three ways of getting this location on your map. First is by recruiting Myron and then try to dump him, he will then tell you of this location. The second way is from a [random traveler](/docs/random-encounters/#a-traveler) somewhere close to New Reno, and the third way is by doing a quest for [Dr. Sheng](/docs/san-francisco/#1-investigate-the-whereabouts-of-dr-sheng). You will need a rope here, so don't forget to bring one.
+There's three ways of getting this location on your map. First is by recruiting Myron and then try to dump him, he will then tell you of this location. The second way is from a [random traveler](/random-encounters/#a-traveler) somewhere close to New Reno, and the third way is by doing a quest for [Dr. Sheng](/san-francisco/#1-investigate-the-whereabouts-of-dr-sheng). You will need a rope here, so don't forget to bring one.
 
 When you arrive you will be greeted by a horde of spore plants spread out on most of the map. If you are alone you can easily cruise in between them, but if you have a party with you, they might want to run around and take them all out. It can be a pretty long fight.
 
@@ -73,7 +73,7 @@ The hologram here is the Director of Science. Speaking to him reveals a small pr
 
 ### 5. Test the Solar Scorcher for the Director of Science
 
-{{< note >}}The Solar Scorcher is the same gun that could previously be found in the [Guardian of Forever](/docs/random-encounters/#guardian-of-forever) encounter.{{< /note >}}
+{{< note >}}The Solar Scorcher is the same gun that could previously be found in the [Guardian of Forever](/random-encounters/#guardian-of-forever) encounter.{{< /note >}}
 
 After you have fixed the science director he wants you to test out an experimental weapon for him. It is stored in a locker next to the tape reel machine. The locker is locked until you get this quest and there is no way of opening it before that. Anyway, your mission is to go outside and shoot something and then come back and report it (500 XP), and you get to keep the gun. Note, outside means outside, critters in the sub-levels don't count. Ideally you saved a spore plant on the surface level for target practice, if not you have to travel the wastes.
 
@@ -139,7 +139,7 @@ This level is pretty empty but this is where you find the elevator down to the B
 
 Here you can find EPA's botanical garden and the spectacular petting zoo. The zoo could be seen as a bit controversial, as it holds humans too. Deformed and crazed from genetic experimentation.
 
-{{< note >}}There are no quests here, but there is one quest objective you can fulfill. On the east side there is a computer, the EPA's botany terminal. On it you can find a file on botany. If you have the quest from [Brother Paul](/docs/abbey/#7-collect-information-about-botany-for-brother-paul) to find info on such things, you can download it to a holodisk and bring it to him. You can also extract some seeds from the seed storage tanks. They contain modified corn and some experimental seeds.{{< /note >}}
+{{< note >}}There are no quests here, but there is one quest objective you can fulfill. On the east side there is a computer, the EPA's botany terminal. On it you can find a file on botany. If you have the quest from [Brother Paul](/abbey/#7-collect-information-about-botany-for-brother-paul) to find info on such things, you can download it to a holodisk and bring it to him. You can also extract some seeds from the seed storage tanks. They contain modified corn and some experimental seeds.{{< /note >}}
 
 {{< note >}}If you are up for it you can take a stroll in the lush trees and bushes of the garden. If you have some seeds you can even grow one yourself. The experimental seeds can be planted in the fertile ground in the south-west corner of the garden (100 XP). If you come back three days later you will find a new random bush there (sometimes it's a spore plant).{{< /note >}}
 

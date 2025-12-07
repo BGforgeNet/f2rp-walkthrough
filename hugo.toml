@@ -10,9 +10,9 @@ title = 'Fallout 2 Restoration Project Walkthrough'
   BookFavicon = '/favicon.ico'
   BookTheme = 'auto'
   BookToC = true
-  BookSection = 'docs'
+  BookSection = '/'
   BookRepo = 'https://github.com/BGforgeNet/f2rp-walkthrough'
-  BookEditPath = 'edit/master/content'
+  BookEditLink = 'https://github.com/BGforgeNet/f2rp-walkthrough/edit/master/{{ .Path }}'
 
 [markup]
   [markup.goldmark]

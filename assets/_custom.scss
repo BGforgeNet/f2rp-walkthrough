@@ -40,25 +40,6 @@ body {
   border-radius: 4px;
 }
 
-/* Notes - blue info box */
-.markdown p:has(strong:first-child) {
-  &:has(strong:first-child:is(:contains("Note"))) {
-    background: #eff6ff;
-    border-left: 3px solid #3b82f6;
-    padding: 0.5rem 0.75rem;
-    margin: 1rem 0;
-    border-radius: 0 4px 4px 0;
-  }
-}
-
-/* Style paragraphs starting with Note: or WARNING: */
-.markdown p strong:first-child {
-  &:empty + em,
-  &:empty ~ * {
-    color: inherit;
-  }
-}
-
 .note-info {
   background: #eff6ff;
   border-left: 3px solid #3b82f6;

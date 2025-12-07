@@ -5,7 +5,7 @@ weight: 9
 
 # New Reno
 
-The 'Barking man' is a new character that you can help. If you find and talk to him (located in the very back of the building that is northwest of Jules, see picture), you can determine that he has a case of epilepsy if you have 75 science. See the [EPA](/docs/epa/#indigo-level) section on how to help him.
+The 'Barking man' is a new character that you can help. If you find and talk to him (located in the very back of the building that is northwest of Jules, see picture), you can determine that he has a case of epilepsy if you have 75 science. See the [EPA](/epa/#indigo-level) section on how to help him.
 
 ![Barking man location](/files/00.jpg)
 
@@ -31,7 +31,7 @@ Old Man McGee is the guy standing in front of a slot machine in the Shark Club. 
 
 Doing some repairing and cleaning on McGee's slot machine gives you 50 XP, or if you get a critical_success you get 100 XP. It can only be done once, so if you fail you get nothing. You can still do the repair on it after you've won, even though it supposedly is broken beyond repair by then.
 
-During the desert transaction between the Salvatores and the Enclave, it is now possible to sneak aboard the Vertibird. It will take you to Navarro. See the [Navarro](/docs/navarro/) section for more details.
+During the desert transaction between the Salvatores and the Enclave, it is now possible to sneak aboard the Vertibird. It will take you to Navarro. See the [Navarro](/navarro/) section for more details.
 
 Going on a date with Miss Kitty now gives +1 AG if you successfully asked her out before the end of the game. The date will not happen until you come back from the Oil rig though. So it won't matter much except for the satisfaction of getting a reward, unless you feel using the fallout 2 hintbook is a bit too much, then it can be quite handy.
 

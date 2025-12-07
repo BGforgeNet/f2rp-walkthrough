@@ -29,7 +29,7 @@ The 5 Kaga encounters occur as follows:
 
 ## A Traveler
 
-The Traveler is sometimes worth stopping to talk to (the first few times). She never has anything to barter with, but I have had her give me the location of several places I would normally need to find out about from someone else, including [EPA](/docs/epa/) and the Military Base. She doesn't know the real names of the places though, so you have to ask about "an abandoned mine" and "an old research facility" to have her put the locations on your map.
+The Traveler is sometimes worth stopping to talk to (the first few times). She never has anything to barter with, but I have had her give me the location of several places I would normally need to find out about from someone else, including [EPA](/epa/) and the Military Base. She doesn't know the real names of the places though, so you have to ask about "an abandoned mine" and "an old research facility" to have her put the locations on your map.
 
 ## Federation Shuttle
 
@@ -37,7 +37,7 @@ You can now find a phaser pistol here. This uses small energy cells, clip capaci
 
 ## Guardian of Forever
 
-The Solar Scorcher has been removed and can now be found at the [EPA](/docs/epa/#5-test-the-solar-scorcher-for-the-director-of-science) instead.
+The Solar Scorcher has been removed and can now be found at the [EPA](/epa/#5-test-the-solar-scorcher-for-the-director-of-science) instead.
 
 ## Vorpal Rat Cave
 

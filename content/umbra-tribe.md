@@ -32,7 +32,7 @@ The guy standing next to the well gives you this quest. You need a rope for this
 
 ## 4. Sulik's sister is missing, find her
 
-You get this quest from Sulik. Metzger, in the Den, will put the location of the Slaver's Camp on your map when you ask him about his business. (Speech 51% required). The slaves that you free from Metzger will also tell you where the camp is, in case your speech skill isn't good enough. Freeing Kurisu from the camp automatically takes you to the Umbra Tribe. How to free her is covered in the [Slaver's Camp](/docs/slavers-camp/) section.
+You get this quest from Sulik. Metzger, in the Den, will put the location of the Slaver's Camp on your map when you ask him about his business. (Speech 51% required). The slaves that you free from Metzger will also tell you where the camp is, in case your speech skill isn't good enough. Freeing Kurisu from the camp automatically takes you to the Umbra Tribe. How to free her is covered in the [Slaver's Camp](/slavers-camp/) section.
 
 ## 5. Find out what happened to the hunting party
 
