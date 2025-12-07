@@ -3,5 +3,3 @@ public/
 resources/_gen/
 .hugo_build.lock
 
-# Go modules
-go.sum
